@@ -237,7 +237,7 @@
 						<div class="row">
 							<div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 ">
 								<hr style="width: 75%">
-								<h5>© Gustavo Antonioo && Erick Branco</h5>
+								<h5>© Gustavo Antonioo</h5>
 							</div>
 						</div>
 					</div>
